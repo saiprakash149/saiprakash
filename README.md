@@ -1,2 +1,0 @@
-# saiprakash
-devops project
